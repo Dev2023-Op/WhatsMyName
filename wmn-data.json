@@ -9974,6 +9974,18 @@
         "amiresteki"
       ],
       "cat": "misc"
-    }
+    },
+    {
+      "name": "phishtank",
+      "uri_check": "https://www.phishtank.net/user.php?username={account}",
+      "e_code": 200,
+      "e_sring": "Member Since",
+      "m_code": 302,
+      "m_string": "Recent Submissions",
+      "known": [
+        "magneto"
+      ],
+      "cat": "tech"
+    },
   ]
-}
+}
